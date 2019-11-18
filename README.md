@@ -1,7 +1,7 @@
 # Matrix multiplication OpenMP
  realize a simple Matirx multiplication using OpenMP
  
-#Introduction
+# Introduction
 
  1、用OpenMP实现多线程（基于CPU）的矩阵加速。  
  
