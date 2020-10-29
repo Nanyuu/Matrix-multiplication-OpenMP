@@ -1,5 +1,5 @@
 # Matrix multiplication OpenMP
- realize a simple Matirx multiplication using OpenMP
+ implement a simple Matirx multiplication using OpenMP
  
 # Introduction
 
